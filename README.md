@@ -1,5 +1,5 @@
 # paje: An Automated Machine Learning Tool
-# [this repository is kept here only for historic reasons]
+# [this repository is kept here only for historical reasons]
 
 ## Dependencies
 
